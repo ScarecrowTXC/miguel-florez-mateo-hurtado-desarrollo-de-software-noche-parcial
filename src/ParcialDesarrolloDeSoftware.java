@@ -12,5 +12,11 @@ public class ParcialDesarrolloDeSoftware {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        
+        
     }
+    public void metodoB() {
+    	 System.out.println("EJECUTANDDO METODO B");
+    	 }
+
 }
