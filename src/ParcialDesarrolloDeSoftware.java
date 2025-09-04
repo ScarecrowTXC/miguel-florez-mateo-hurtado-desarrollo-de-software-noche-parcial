@@ -19,6 +19,12 @@ public class ParcialDesarrolloDeSoftware {
     	 System.out.println("EJECUTANDDO METODO B");
     	 }
 	}
+	}
+	public void metodoC() {
+		System.out.println("EJECUTANDDO METODO C");
+	 	}
+	}
+
 	public void metodoD() {
 		System.out.println("EJECUTANDDO METODO D");
 	}
